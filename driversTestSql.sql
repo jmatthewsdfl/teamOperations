@@ -1,2 +1,3 @@
 /* This is a test */
 SELECT EMEMP, EMNAME, EMHTID FROM LTL400TST3.DSP020;
+/* Another Test Comment */
